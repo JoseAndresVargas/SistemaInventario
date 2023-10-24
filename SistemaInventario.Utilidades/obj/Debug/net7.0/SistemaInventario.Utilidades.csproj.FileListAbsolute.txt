@@ -1,0 +1,11 @@
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.deps.json
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.AssemblyInfoInputs.cache
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.AssemblyInfo.cs
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\refint\SistemaInventario.Utilidades.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.pdb
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\ref\SistemaInventario.Utilidades.dll
