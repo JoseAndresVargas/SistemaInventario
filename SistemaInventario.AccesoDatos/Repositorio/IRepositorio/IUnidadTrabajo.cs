@@ -16,6 +16,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
 
         IProductoRepositorio Producto { get; }
 
+<<<<<<< HEAD
         ICompaniaRepositorio Compania { get; }  
 
         ICarroCompraRepositorio CarroCompra { get; }
@@ -23,6 +24,16 @@ namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
         IOrdenRepositorio Orden { get; }
 
         IOrdenDetalleRepositorio OrdenDetalle { get; }
+=======
+        IBodegaProductoRepositorio  BodegaProducto { get; }
+
+        IInventarioRepositorio Inventario { get; }
+
+        IInventarioDetalleRepositorio InventarioDetalle { get; }
+
+        IKardexInventarioRepositorio KardexInventario { get; }
+
+>>>>>>> main
 
         Task Guardar();
     }
