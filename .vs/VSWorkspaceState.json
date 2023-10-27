@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SistemaInventario",
+    "\\SistemaInventario.Utilidades",
+    "\\SistemaInventario\\Areas\\Admin\\Controllers",
+    "\\SistemaInventario\\Areas\\Admin\\Views",
+    "\\SistemaInventario\\Areas\\Admin\\Views\\Bodega",
+    "\\SistemaInventario\\Areas\\Admin\\Views\\Categoria",
+    "\\SistemaInventario\\Areas\\Admin\\Views\\Marca",
+    "\\SistemaInventario\\wwwroot",
+    "\\SistemaInventario\\wwwroot\\js"
   ],
-  "SelectedNode": "\\SistemaInventario.sln",
+  "SelectedNode": "\\SistemaInventario.Utilidades",
   "PreviewInSolutionExplorer": false
 }
