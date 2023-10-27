@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "e5UMZJrSoCzW+vSy/PEMQwrwhKLI6ylS0Ng0VOvAUWGGm+yeDMVpeEuqnBFZhM7Oi0aGgzOYcmE/BrIjgq7ivA==",
+  "dgSpecHash": "ov3nJmfWh3hMTwcFlwVVzTqMxnqhIKVGJjJ/idtKHBtBEgpl4hN78iEqXtD90BV3P/qEdz9I8Yj31YJ2Y2nP4A==",
   "success": true,
-  "projectFilePath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.13\\microsoft.aspnetcore.cryptography.internal.7.0.13.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.13\\microsoft.aspnetcore.cryptography.keyderivation.7.0.13.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.13\\microsoft.aspnetcore.identity.ui.7.0.13.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\7.0.13\\microsoft.extensions.fileproviders.embedded.7.0.13.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.13\\microsoft.extensions.identity.core.7.0.13.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.13\\microsoft.extensions.identity.stores.7.0.13.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
