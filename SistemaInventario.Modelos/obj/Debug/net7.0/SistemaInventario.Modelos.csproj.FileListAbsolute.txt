@@ -13,3 +13,6 @@ D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Mo
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
+C:\Users\Lermith Andres\Documents\TEC\Disenno\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\Users\Lermith Andres\Documents\TEC\Disenno\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
+C:\Users\Lermith Andres\Documents\TEC\Disenno\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
