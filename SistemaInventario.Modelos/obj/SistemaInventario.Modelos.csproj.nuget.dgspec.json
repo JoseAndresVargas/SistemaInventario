@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {}
+    "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+    "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "projectUniqueName": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
         "projectName": "SistemaInventario.Modelos",
-        "projectPath": "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
-        "packagesPath": "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
+        "projectPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "packagesPath": "C:\\Users\\andyx\\.nuget\\packages\\",
+        "outputPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sebastian Bogantes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andyx\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }
@@ -73,17 +73,17 @@
         }
       }
     },
-    "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+    "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectUniqueName": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "projectName": "SistemaInventario.Utilidades",
-        "projectPath": "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\Sebastian Bogantes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sebastian Bogantes\\Source\\Repos\\SistemaInventario\\SistemaInventario.Utilidades\\obj\\",
+        "projectPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\andyx\\.nuget\\packages\\",
+        "outputPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sebastian Bogantes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andyx\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,12 +108,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Identity.UI": {
-              "target": "Package",
-              "version": "[7.0.13, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
