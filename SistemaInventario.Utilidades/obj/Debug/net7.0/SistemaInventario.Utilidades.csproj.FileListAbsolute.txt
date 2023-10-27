@@ -9,3 +9,14 @@ D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Ut
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\refint\SistemaInventario.Utilidades.dll
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.pdb
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\ref\SistemaInventario.Utilidades.dll
+C:\Users\rd740\Desktop\II-Sem23\Diseño-de-Software\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.deps.json
+C:\Users\rd740\Desktop\II-Sem23\Diseño-de-Software\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+C:\Users\rd740\Desktop\II-Sem23\Diseño-de-Software\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+C:\Users\rd740\Desktop\II-Sem23\Diseño-de-Software\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rd740\Desktop\II-Sem23\Diseño-de-Software\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.AssemblyInfoInputs.cache
+C:\Users\rd740\Desktop\II-Sem23\Diseño-de-Software\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.AssemblyInfo.cs
+C:\Users\rd740\Desktop\II-Sem23\Diseño-de-Software\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\rd740\Desktop\II-Sem23\Diseño-de-Software\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.dll
+C:\Users\rd740\Desktop\II-Sem23\Diseño-de-Software\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\refint\SistemaInventario.Utilidades.dll
+C:\Users\rd740\Desktop\II-Sem23\Diseño-de-Software\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.pdb
+C:\Users\rd740\Desktop\II-Sem23\Diseño-de-Software\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\ref\SistemaInventario.Utilidades.dll

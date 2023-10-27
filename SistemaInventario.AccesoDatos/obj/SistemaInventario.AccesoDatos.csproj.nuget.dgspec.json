@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {}
+    "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {}
   },
   "projects": {
-    "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
+    "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
         "projectName": "SistemaInventario.AccesoDatos",
-        "projectPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
-        "packagesPath": "C:\\Users\\andyx\\.nuget\\packages\\",
-        "outputPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.AccesoDatos\\obj\\",
+        "projectPath": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\rd740\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\andyx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rd740\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-                "projectPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+              "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+                "projectPath": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
               },
-              "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }
@@ -80,21 +84,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+    "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
         "projectName": "SistemaInventario.Modelos",
-        "projectPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
-        "packagesPath": "C:\\Users\\andyx\\.nuget\\packages\\",
-        "outputPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
+        "projectPath": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "packagesPath": "C:\\Users\\rd740\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\andyx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rd740\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,8 +116,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }
@@ -145,21 +153,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+    "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "projectName": "SistemaInventario.Utilidades",
-        "projectPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\andyx\\.nuget\\packages\\",
-        "outputPath": "D:\\andyx\\DiseñoSoftware\\ProyectoTutorial\\SistemaInventario\\SistemaInventario.Utilidades\\obj\\",
+        "projectPath": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\rd740\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rd740\\Desktop\\II-Sem23\\Diseño-de-Software\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\andyx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rd740\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -200,7 +212,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

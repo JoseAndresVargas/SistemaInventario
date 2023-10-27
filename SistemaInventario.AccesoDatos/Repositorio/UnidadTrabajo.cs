@@ -1,5 +1,6 @@
 ﻿using SistemaInventario.AccesoDatos.Data;
 using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
+using SistemaInventario.Modelos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,6 +21,14 @@ namespace SistemaInventario.AccesoDatos.Repositorio
 
         public IProductoRepositorio Producto { get; private set; }
 
+        public ICompaniaRepositorio Compania { get; private set; }
+
+        public ICarroCompraRepositorio CarroCompra { get; private set; }
+
+        public IOrdenRepositorio Orden { get; private set; }  
+
+        public IOrdenDetalleRepositorio OrdenDetalle { get; private set; }
+
         public UnidadTrabajo(ApplicationDbContext db)
         {
             _db = db;
@@ -27,6 +36,10 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             Categoria = new CategoriaRepositorio(_db);
             Marca = new MarcaRepositorio(_db);
             Producto = new ProductoRepositorio(_db);
+            Compania = new CompaniaRepositorio(_db);
+            CarroCompra = new CarroCompraRepositorio(_db);
+            Orden = new OrdenRepositorio(_db);
+            OrdenDetalle = new OrdenDetalleRepositorio(_db); 
         }
 
 
