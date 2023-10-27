@@ -15,6 +15,11 @@ D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Ac
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\refint\SistemaInventario.AccesoDatos.dll
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\ref\SistemaInventario.AccesoDatos.dll
+<<<<<<< HEAD
+C:\Users\Lermith Andres\Documents\TEC\Disenno\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.dll
+C:\Users\Lermith Andres\Documents\TEC\Disenno\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\refint\SistemaInventario.AccesoDatos.dll
+C:\Users\Lermith Andres\Documents\TEC\Disenno\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
+=======
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.deps.json
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.dll
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
@@ -32,3 +37,4 @@ C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.Acc
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\refint\SistemaInventario.AccesoDatos.dll
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\ref\SistemaInventario.AccesoDatos.dll
+>>>>>>> main

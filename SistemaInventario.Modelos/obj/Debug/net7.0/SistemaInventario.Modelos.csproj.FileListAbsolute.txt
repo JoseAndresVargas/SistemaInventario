@@ -13,6 +13,11 @@ D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Mo
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
 D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
+<<<<<<< HEAD
+C:\Users\Lermith Andres\Documents\TEC\Disenno\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\Users\Lermith Andres\Documents\TEC\Disenno\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
+C:\Users\Lermith Andres\Documents\TEC\Disenno\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
+=======
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.deps.json
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
@@ -28,3 +33,4 @@ C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.Mod
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
 C:\Users\Sebastian Bogantes\Source\Repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
+>>>>>>> main
