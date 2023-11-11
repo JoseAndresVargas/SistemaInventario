@@ -1,0 +1,11 @@
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Utilidades\bin\Release\net7.0\SistemaInventario.Utilidades.deps.json
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Utilidades\bin\Release\net7.0\SistemaInventario.Utilidades.dll
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Utilidades\bin\Release\net7.0\SistemaInventario.Utilidades.pdb
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.AssemblyInfoInputs.cache
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.AssemblyInfo.cs
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.dll
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Utilidades\obj\Release\net7.0\refint\SistemaInventario.Utilidades.dll
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.pdb
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Utilidades\obj\Release\net7.0\ref\SistemaInventario.Utilidades.dll

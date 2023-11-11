@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Me5AHk9zoF/4UJ2Cflfo6/lWjkfmOMzxyjM9bzT73x+5yjIkzai9jGsABgFBh2Mh54Geo7NtnANQdyIv603hKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rsanchez\\source\\repos\\disenho\\SistemaInventario.Utilidades\\ECommerce.Utilidades.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.orderexecution.internal/nuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

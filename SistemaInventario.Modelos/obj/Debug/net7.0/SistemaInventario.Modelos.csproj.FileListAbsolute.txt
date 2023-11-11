@@ -1,0 +1,60 @@
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.deps.json
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfo.cs
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CopyComplete
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.deps.json
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfo.cs
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CopyComplete
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
+D:\andyx\DiseñoSoftware\ProyectoTutorial\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.deps.json
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfo.cs
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CopyComplete
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
+C:\Users\rsanchez\Downloads\Telegram Desktop\SistemaInventario2\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.deps.json
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfo.cs
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CopyComplete
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
+C:\Users\rsanchez\source\repos\disenho\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
